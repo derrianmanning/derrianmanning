@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derrian, an <a href="https://linkedin.com/in/derrianmanning/">IT Aspirant</a>☺</h1>
+<h1>Hi, I'm Derrian, an <a href="https://linkedin.com/in/derrianmanning/">IT Aspirant</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
